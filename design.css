@@ -1,18 +1,20 @@
-body {background-color: green;}
+body {background-color: darkblue;}
 h1 {font-size: 30px;}
-h4 {font-size: 20px;}
-h5 {font-size: 17px;}
-p {text-align: left; font-size: 20px;}
+h3 {font-size: 19px; padding: 2px; margin: 2;}
+h4 {font-size: 19px; padding: 2px; margin: 2;}
+h5 {font-size: 17px; padding: 2px; margin: 2;}
+p {text-align: left; font-size: 20px; padding: 5px 5px; margin: 1;}
+a {color: white; text-decoration: none}
 
-.header {background-image:url('parking.jpg'); height: 20vh; width: 100%; font-family: Georgia; font-size: 60px; color:white; text-align: center;}
+.header {background-image:url('parking.jpg'); height: 19vh; width: 100%; font-family: Georgia; font-size: 60px; color:white; text-align: center;}
 
-.leftcol {background-color: grey; height: 80vh; float: left; width: 10%}
+.leftcol {background-color: beige; height: 37vh; float: left; width: 10%; border-style: solid;}
 
-.content {background-color: white; height: 80vh; float: left; width: 80%; font-family: Georgia; font-size: 40px; text-align: center}
+.content {background-color: darkred; height: 70vh; float: left; width: 80%; font-family: Georgia; font-size: 40px; text-align: center; color: white;}
 
 .rightcol {background-color: lightblue; height: 80vh; float: right; width: 10%}
 
-.footer {background-color: red; height: 5%; width: 100%; clear: both; text-align: center;}
+.footer {height: 5%; width: 100%; clear: both; text-align: center; color: white;}
 
 ul {list-style-type: none; background-color: grey; margin: 0px; padding-left: 21%; font-size: 30px;}
 
