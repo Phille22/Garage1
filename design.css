@@ -1,4 +1,4 @@
-body {background-color: darkblue;}
+body {background-color: darkblue; width: 1500; height: 500;}
 h1 {font-size: 30px;}
 h3 {font-size: 19px; padding: 2px; margin: 2;}
 h4 {font-size: 19px; padding: 2px; margin: 2;}
@@ -10,7 +10,7 @@ a {color: white; text-decoration: none}
 
 .leftcol {background-color: beige; height: 37vh; float: left; width: 10%; border-style: solid;}
 
-.content {background-color: darkred; height: 70vh; float: left; width: 80%; font-family: Georgia; font-size: 40px; text-align: center; color: white;}
+.content {background-image:url('karta.jpg'); background-color: darkred; height: 70vh; float: left; width: 80%; font-family: Georgia; font-size: 40px; text-align: center; color: white;}
 
 .rightcol {background-color: lightblue; height: 80vh; float: right; width: 10%}
 
