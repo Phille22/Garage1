@@ -1,14 +1,19 @@
-body {background-color: darkblue; height: 1000;}
+body {background-color: darkblue;}
 h1 {font-size: 30px;}
 h3 {font-size: 19px; padding: 2px; margin: 2;}
 h4 {font-size: 19px; padding: 2px; margin: 2;}
 h5 {font-size: 17px; padding: 2px; margin: 2;}
-p {text-align: left; font-size: 20px; padding: 5px 5px; margin: 1;}
-a {color: white; text-decoration: none}
+p {text-align: left; font-size: 20px; padding: 5px 5px; margin: 1; background-color: darkred;}
+a {color: white; text-decoration: none; background-color: darkred;}
+a:hover {background-color: darkred;}
 
 .karta {background-image:url('karta.jpg'); background-color: darkred; height: 70vh; float: left; width: 80%; font-family: Georgia; font-size: 40px; text-align: center; color: white;}
 
-.header {background-image:url('parking.jpg'); height: 19vh; width: 100%; font-family: Georgia; font-size: 60px; color:white; text-align: center;}
+.kontakt {background-image:url('kontakt.jpg'); background-size: 100%; background-color: darkred; height: 70vh; float: left; width: 80%; font-family: Georgia; font-size: 40px; text-align: center; color: white;}
+
+.service {background-image:url('service.jpg'); background-size: 100%; background-color: darkred; height: 70vh; float: left; width: 80%; font-family: Georgia; font-size: 40px; text-align: center; color: white;}
+
+.header {background-color: darkred; height: 19vh; width: 100%; font-family: Georgia; font-size: 60px; color:white; text-align: center;}
 
 .leftcol {background-color: beige; height: 37vh; float: left; width: 10%; border-style: solid;}
 
