@@ -1,23 +1,25 @@
-body {background-color: darkblue;}
-h1 {font-size: 30px;}
-h3 {font-size: 19px; padding: 2px; margin: 2;}
-h4 {font-size: 19px; padding: 2px; margin: 2;}
-h5 {font-size: 17px; padding: 2px; margin: 2;}
-p {text-align: left; font-size: 20px; padding: 5px 5px; margin: 1; background-color: darkred;}
+body {background-color: darkblue; width: 1500px; height: 100%;}
+h1 {font-size: 30px; font-family: 'Bevan';}
+h3 {font-size: 17px; padding: 2px; margin: 2; font-family: 'Courgette'}
+h4 {font-size: 17px; padding: 2px; margin: 2; font-family: 'Courgette'}
+h5 {font-size: 17px; padding: 2px; margin: 2; font-family: 'Reem Kufi', sans-serif;}
+p {text-align: left; font-size: 20px; padding: 5px 5px; margin: 1; background-color: darkred; font-family: 'Reem Kufi', sans-serif;}
 a {color: white; text-decoration: none; background-color: darkred;}
 a:hover {background-color: darkred;}
 
-.karta {background-image:url('karta.jpg'); background-color: darkred; height: 70vh; float: left; width: 80%; font-family: Georgia; font-size: 40px; text-align: center; color: white;}
+.karta {background-image:url('karta.jpg'); background-color: darkred; height: 70vh; float: left; width: 80%; font-family: 'Bevan'; font-size: 40px; text-align: center; color: white;}
 
-.kontakt {background-image:url('kontakt.jpg'); background-size: 100%; background-color: darkred; height: 70vh; float: left; width: 80%; font-family: Georgia; font-size: 40px; text-align: center; color: white;}
+.kontakt {background-image:url('kontakt.jpg'); background-size: 100%; background-color: darkred; height: 70vh; float: left; width: 80%; font-family: 'Bevan'; font-size: 40px; text-align: center; color: white;}
 
-.service {background-image:url('service.jpg'); background-size: 100%; background-color: darkred; height: 70vh; float: left; width: 80%; font-family: Georgia; font-size: 40px; text-align: center; color: white;}
+.service {background-image:url('service.jpg'); background-size: 100%; background-color: darkred; height: 70vh; float: left; width: 80%; font-family: 'Bevan'; font-size: 40px; text-align: center; color: white;}
 
-.header {background-color: darkred; height: 19vh; width: 100%; font-family: Georgia; font-size: 60px; color:white; text-align: center;}
+.boka {background-image:url('boka.jpg'); background-size: 100%; background-color: darkred; height: 70vh; float: left; width: 80%; font-family: 'Bevan'; font-size: 40px; text-align: center; color: white;}
 
-.leftcol {background-color: beige; height: 37vh; float: left; width: 10%; border-style: solid;}
+.header {background-color: darkred; height: 120px; width: 100%; font-family: 'Courgette', cursive; font-size: 42px; color:white; text-align: center;}
 
-.content {background-image:url('parkeringshus.jpg'); background-color: darkred; height: 70vh; float: left; width: 80%; font-family: Georgia; font-size: 40px; text-align: center; color: white;}
+.leftcol {background-color: beige; height: 300px; float: left; width: 10%; border-style: solid;}
+
+.content {background-image:url('parkeringshus.jpg'); background-color: darkred; height: 500px; float: left; width: 80%; font-family: Georgia; font-size: 40px; text-align: center; color: white;}
 
 .rightcol {background-color: lightblue; height: 80vh; float: right; width: 10%}
 
@@ -27,7 +29,7 @@ ul {list-style-type: none; background-color: grey; margin: 0px; padding-left: 21
 
 li {float: left; text-align: center;}
 
-li a{display: block; text-decoration: none; padding: 14px 16px; color: white;}
+li a{display: block; text-decoration: none; padding: 14px 16px; color: white; font-family: 'Bevan'; font-size: 25px}
 
 li a:hover{background-color: black;}
 
