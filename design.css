@@ -23,13 +23,13 @@ a:hover {background-color: darkred;}
 
 .rightcol {background-color: lightblue; height: 80vh; float: right; width: 10%}
 
-.footer {height: 5%; width: 100%; clear: both; text-align: center; color: white;}
+.footer {height: 5%; width: 100%; clear: both; text-align: center; color: white; position: relative; bottom: -70px;}
 
 ul {list-style-type: none; background-color: grey; margin: 0px; padding-left: 21%; font-size: 30px;}
 
 li {float: left; text-align: center;}
 
-li a{display: block; text-decoration: none; padding: 14px 16px; color: white; font-family: 'Bevan'; font-size: 25px}
+li a{display: block; text-decoration: none; padding: 14px 16px; color: white; font-family: 'Bevan'; font-size: 25px; position: relative; right: 140px;}
 
 li a:hover{background-color: black;}
 
