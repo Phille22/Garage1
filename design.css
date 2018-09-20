@@ -1,9 +1,9 @@
 body {background-color: darkblue; width: 1500px; height: 100%;}
 h1 {font-size: 30px; font-family: 'Bevan';}
-h3 {font-size: 17px; padding: 2px; margin: 2; font-family: 'Courgette'}
-h4 {font-size: 17px; padding: 2px; margin: 2; font-family: 'Courgette'}
-h5 {font-size: 17px; padding: 2px; margin: 2; font-family: 'Reem Kufi', sans-serif;}
-p {text-align: left; font-size: 20px; padding: 5px 5px; margin: 1; background-color: darkred; font-family: 'Reem Kufi', sans-serif;}
+h3 {font-size: 17px; padding: 2px; margin: 2; font-family: 'Courgette'; margin-top: 1px; margin-bottom: 1px}
+h4 {font-size: 17px; padding: 2px; margin: 2; font-family: 'Courgette'; margin-top: 1px; margin-bottom: 1px}
+h5 {font-size: 17px; padding: 2px; margin: 2; font-family: 'Reem Kufi', sans-serif; margin-top: 1px; margin-bottom: 1px}
+p {text-align: left; font-size: 20px; padding: 5px 5px; margin: 1; background-color: darkred; font-family: 'Reem Kufi', sans-serif; margin-top: 1px; margin-bottom: 1px}
 a {color: white; text-decoration: none; background-color: darkred;}
 a:hover {background-color: darkred;}
 
@@ -17,9 +17,9 @@ a:hover {background-color: darkred;}
 
 .header {background-color: darkred; height: 120px; width: 100%; font-family: 'Courgette', cursive; font-size: 42px; color:white; text-align: center;}
 
-.leftcol {background-color: beige; height: 300px; float: left; width: 10%; border-style: solid;}
+.leftcol {background-color: beige; height: 285px; float: left; width: 10%; border-style: solid;}
 
-.content {background-image:url('parkeringshus.jpg'); background-color: darkred; height: 500px; float: left; width: 80%; font-family: Georgia; font-size: 40px; text-align: center; color: white;}
+.content {background-image:url('parkeringshus.jpg'); background-color: darkred; height: 500px; float: left; width: 80%; font-family: Georgia; font-size: 40px; text-align: center; color: white; margin-top: 1}
 
 .rightcol {background-color: lightblue; height: 80vh; float: right; width: 10%}
 
