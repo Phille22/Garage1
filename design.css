@@ -7,13 +7,13 @@ p {text-align: left; font-size: 20px; padding: 5px 5px; margin: 1; background-co
 a {color: white; text-decoration: none; background-color: darkred;}
 a:hover {background-color: darkred;}
 
-.karta {background-image:url('karta.jpg'); background-color: darkred; height: 70vh; float: left; width: 80%; font-family: 'Bevan'; font-size: 40px; text-align: center; color: white;}
+.karta {background-image:url('karta.jpg'); background-color: darkred; height: 500px; float: left; width: 80%; font-family: 'Bevan'; font-size: 40px; text-align: center; color: white;}
 
-.kontakt {background-image:url('kontakt.jpg'); background-size: 100%; background-color: darkred; height: 70vh; float: left; width: 80%; font-family: 'Bevan'; font-size: 40px; text-align: center; color: white;}
+.kontakt {background-image:url('kontakt.jpg'); background-size: 100%; background-color: darkred; height: 500px; float: left; width: 80%; font-family: 'Bevan'; font-size: 40px; text-align: center; color: white;}
 
-.service {background-image:url('service.jpg'); background-size: 100%; background-color: darkred; height: 70vh; float: left; width: 80%; font-family: 'Bevan'; font-size: 40px; text-align: center; color: white;}
+.service {background-image:url('service.jpg'); background-size: 100%; background-color: darkred; height: 500px; float: left; width: 80%; font-family: 'Bevan'; font-size: 40px; text-align: center; color: white;}
 
-.boka {background-image:url('boka.jpg'); background-size: 100%; background-color: darkred; height: 70vh; float: left; width: 80%; font-family: 'Bevan'; font-size: 40px; text-align: center; color: white;}
+.boka {background-image:url('boka.jpg'); background-size: 100%; background-color: darkred; height: 500px; float: left; width: 80%; font-family: 'Bevan'; font-size: 40px; text-align: center; color: white;}
 
 .header {background-color: darkred; height: 120px; width: 100%; font-family: 'Courgette', cursive; font-size: 42px; color:white; text-align: center;}
 
